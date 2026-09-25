@@ -1,4 +1,4 @@
-# lionsos-iperf3
+# iperf3 implementation for LionsOS
 iperf3 client and server for LionsOS
 
 ## Prerequisites
