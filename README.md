@@ -3,7 +3,7 @@ iperf3 client and server for LionsOS
 
 ## Prerequisites
 
-Microkit SDK 2.20, sDDF, pip install sdfgen==0.33.0 and LLVM toolchain
+Microkit SDK 2.2.0, sDDF, pip install sdfgen==0.33.0 and LLVM toolchain
 
 ## Build
 
